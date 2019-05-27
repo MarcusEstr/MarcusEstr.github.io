@@ -4,7 +4,6 @@ date: 2019-05-08T15:34:30-04:00
 categories:
   - Jekyll
 tags:
-  - Jekyll
   - documentation
 ---
 
