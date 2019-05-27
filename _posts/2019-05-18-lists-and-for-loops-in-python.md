@@ -1,6 +1,9 @@
 ---
 title: "Lists and For Loops in Python"
 date: 2019-05-18T15:34:30-04:00
+toc: true
+toc_label: Conditional Statements
+toc_sticky: true
 categories:
   - Python
   - Class
