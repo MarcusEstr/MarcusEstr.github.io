@@ -3,6 +3,7 @@ title: "Lists and For Loops in Python"
 date: 2019-05-18T15:34:30-04:00
 categories:
   - Python
+  - Class
 tags:
   - syntax
   - DataQuest
