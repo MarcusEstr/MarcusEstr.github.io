@@ -6,11 +6,12 @@ toc_label: Functions - Intermediate
 toc_sticky: true
 categories:
   - Python
-  - Class
 tags:
   - syntax
   - DataQuest
   - Python for Data Science Fundamentals
+  - Class
+  - Notes
 ---
 
 # 1. Interfering with the Built-in Functions

@@ -6,11 +6,12 @@ toc_label: Dictionaries and Frequency Tables
 toc_sticky: true
 categories:
   - Python
-  - Class
 tags:
-  - syntax
+  - Syntax
   - DataQuest
   - Python for Data Science Fundamentals
+  - Class
+  - Notes
 ---
 
 # 1. Storing Data
