@@ -2,6 +2,8 @@
 title: "Conditional Statements"
 date: 2019-05-19T15:34:30-04:00
 toc: true
+toc_label: Conditional Statements
+toc_sticky: true
 categories:
   - Python
   - Class
