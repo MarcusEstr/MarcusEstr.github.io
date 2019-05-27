@@ -7,7 +7,7 @@ toc_sticky: true
 categories:
   - Python
 tags:
-  - syntax
+  - Syntax
   - DataQuest
   - Python for Data Science Fundamentals
   - Class
