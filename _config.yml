@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Marcus E."
-  avatar : "/assets/images/roseofversailles.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "A programmer that's always learning new things."
   links:
     - label: "Pixel Pacas"
