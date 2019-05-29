@@ -18,10 +18,11 @@ title: marcuscript
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A site for a curious programmer's notes.
-twitter_username: marcusboi
-github_username: marcusestr
+#twitter_username: marcusboi
+#github_username: marcusestr
 minimal_mistakes_skin: neon #dark, default
 search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
@@ -59,17 +60,17 @@ plugins:
 author:
   name   : "Marcus E."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A programmer that's always learning new things."
-  links:
-    - label: "Pixel Pacas"
-      icon: "fas fa-fw fa-link"
-      url: "https://pixelpacas.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcusboi"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/marcusestr"
+  #bio    : "A programmer that's always learning new things."
+ # links:
+ #   - label: "Pixel Pacas"
+ #     icon: "fas fa-fw fa-link"
+ #     url: "https://pixelpacas.com"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/marcusboi"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/marcusestr"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
@@ -78,10 +79,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcusboi"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/marcusestr"
+      url: "https://github.com/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
